@@ -1,0 +1,227 @@
+---
+added: '2025-03-21 13:22:48.376079'
+thumbnail: https://www.e-rara.ch/i3f/v21/12530938/pct:41.48,61.22,45.79,24.12/full/270/default.jpg
+title:
+- en:
+  - Test IIIF Manifest
+user: yellanic
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://yellanic.github.io/annonatate/manifests/manifests/test/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Test IIIF Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/18losbod3uw-m88lja5k/canvas/ht6ake93364-m88lrz7g",
+      "type": "Canvas",
+      "height": 2285,
+      "width": 1371,
+      "label": {
+        "en": [
+          "church"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/18losbod3uw-m88lja5k/canvas/ht6ake93364-m88lrz7g/annotation-page/e4dt72hbrqi-m88lrz7g",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/18losbod3uw-m88lja5k/annotation/uj43now7s5r-m88lrz0c",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/18losbod3uw-m88lja5k/canvas/ht6ake93364-m88lrz7g",
+              "body": {
+                "id": "https://www.e-rara.ch/i3f/v21/12530938/pct:41.48,61.22,45.79,24.12/full/270/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2285,
+                "width": 1371
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/18losbod3uw-m88lja5k/canvas/bm1zaq7km2a-m88ltg7g",
+      "type": "Canvas",
+      "height": 1119,
+      "width": 821,
+      "label": {
+        "en": [
+          "target"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/18losbod3uw-m88lja5k/canvas/bm1zaq7km2a-m88ltg7g/annotation-page/vw3p873e7ig-m88ltg7g",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/18losbod3uw-m88lja5k/annotation/7uu1vavej1v-m88ltg6k",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/18losbod3uw-m88lja5k/canvas/bm1zaq7km2a-m88ltg7g",
+              "body": {
+                "id": "https://www.e-rara.ch/i3f/v21/12530938/19,1217,801,1105/full/359/color.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1119,
+                "width": 821
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/18losbod3uw-m88lja5k/canvas/syqtfs1v4b-m88m4z3p",
+      "type": "Canvas",
+      "height": 749,
+      "width": 1000,
+      "label": {
+        "en": [
+          "map"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/18losbod3uw-m88lja5k/canvas/syqtfs1v4b-m88m4z3p/annotation-page/9aqs6ddhtei-m88m4z3p",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/18losbod3uw-m88lja5k/annotation/wsdcv713xw-m88m4z0h",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/18losbod3uw-m88lja5k/canvas/syqtfs1v4b-m88m4z3p",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/download/webcache/1000/2356505",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 749,
+                "width": 1000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/18losbod3uw-m88lja5k/canvas/rsbirp3m6h-m88mnkyz",
+      "type": "Canvas",
+      "height": 2400,
+      "width": 1635,
+      "label": {
+        "en": [
+          "Refrigerator"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/18losbod3uw-m88lja5k/canvas/rsbirp3m6h-m88mnkyz/annotation-page/8e66vgdtmnq-m88mnkyz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/18losbod3uw-m88lja5k/annotation/vsuvwgavvz-m88mnjq5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/18losbod3uw-m88lja5k/canvas/rsbirp3m6h-m88mnkyz",
+              "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/499166766/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2400,
+                "width": 1635
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/18losbod3uw-m88lja5k/canvas/20vh6iyu7og-m88mpg20",
+      "type": "Canvas",
+      "height": 953,
+      "width": 418,
+      "label": {
+        "en": [
+          "hungry girl"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/18losbod3uw-m88lja5k/canvas/20vh6iyu7og-m88mpg20/annotation-page/7ht4o14dq0k-m88mpg20",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/18losbod3uw-m88lja5k/annotation/st5ffwvcuk-m88mpfdo",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/18losbod3uw-m88lja5k/canvas/20vh6iyu7og-m88mpg20",
+              "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/499166766/699,1022,418,953/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 953,
+                "width": 418
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.lib.harvard.edu/manifests/drs:499166764/canvas/canvas-499166776.json",
+      "type": "Canvas",
+      "height": 2598,
+      "width": 1781,
+      "label": {
+        "none": [
+          "(seq. 11)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ids.lib.harvard.edu/ids/iiif/499166776/full/,150/0/default.jpg",
+          "type": "Image"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.lib.harvard.edu/manifests/drs:499166764/canvas/canvas-499166776.json/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.lib.harvard.edu/manifests/drs:499166764/annotation/anno-499166776.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://iiif.lib.harvard.edu/manifests/drs:499166764/canvas/canvas-499166776.json",
+              "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/499166776/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2598,
+                "width": 1781,
+                "service": [
+                  {
+                    "@id": "https://ids.lib.harvard.edu/ids/iiif/499166776",
+                    "@type": "ImageService2",
+                    "profile": "level2",
+                    "id": "https://ids.lib.harvard.edu/ids/iiif/499166776"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
